@@ -17,4 +17,3 @@ public class Store {
     // Getters and Setters
 }
 
-}
